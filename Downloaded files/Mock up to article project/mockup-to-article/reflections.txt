@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+I have learned some of the semantics of how to format HTML properly. Being self taught I had picked up a few bad habbits regarding the identation, ordering in which to close tags, etc. 
+
+* What has been easy?
+  
+This section of the course so far has been relatively easy overall, which I knew it would. This is the only section that I feel I do already know most of the material being taught as I did learn it in my previous job.
+
+* What has been difficult?
+  
+So far, nothing has been too difficult. I have been very happy with the layout of the course and as I have known most of the material I haven't found anything too hard.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I found the concept of thinking of all of the code as a tree quite helpful. It lets you break down the problems into more management bits. Perhaps not as neccesary on a small scale as in these quizs, but I can definitely see the real world application and how it would have helped me deal with some issues in my last position more clearly. 
